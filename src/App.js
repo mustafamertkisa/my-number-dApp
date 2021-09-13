@@ -26,8 +26,9 @@ class App extends Component {
 
   async setMyNumber() {
     const newNumber = parseInt(this.state.num) * parseInt(this.state.num)
+    const setNewNumber = await myContract.methods.setMyNumber(newNumber).send({ from: this.state.account });
+    console.log(setNewNumber)
     this.setState({ num: newNumber })
-    //const setNewNumber = await myContract.methods.setMyNumber(newNumber).send({ from: this.state.account });
   }
 
   constructor(props) {
