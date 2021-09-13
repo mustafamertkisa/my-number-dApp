@@ -17,7 +17,6 @@ class App extends Component {
     const web3 = new Web3(Web3.givenProvider)
     const accounts = await web3.eth.getAccounts()
     this.setState({ account: accounts[0] })
-
   }
 
   async callMyNumber() {
