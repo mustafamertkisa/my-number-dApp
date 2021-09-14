@@ -5,8 +5,8 @@ Bu uygulama ile hazırlamış olduğumuz akıllı kontratımızda yer alan sayı
 
 ### Kullanılan Yazılım Dilleri & Kütüphaneler
 
--JavaScript (React)
--Solidity
+- JavaScript (React)
+- Solidity
 
 
 ### Kullanılan Node Modülleri
