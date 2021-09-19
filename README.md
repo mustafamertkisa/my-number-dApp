@@ -2,6 +2,8 @@
 
 Bu uygulama ile hazırlamış olduğumuz akıllı kontratımızda yer alan sayı değerimizi çekerek, karesini alıp tekrar blokzincire kaydediyoruz. Böylelikle akıllı kontratımızın entegre olduğu bir web uygulamasını ayağa kaldırmış bulunuyoruz. 
 
+**Hazırladığım Medium yazısını şu link üzerinden inceleyebilirsiniz.**
+[Web Uygulamalarında Akıllı Kontratlarla Etkileşim](https://medium.com/ltunes/web-uygulamalar%C4%B1na-ak%C4%B1ll%C4%B1-kontratlarla-etkile%C5%9Fim-714364bc1b35)
 
 ### Kullanılan Yazılım Dilleri & Kütüphaneler
 
